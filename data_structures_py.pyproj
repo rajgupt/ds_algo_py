@@ -25,7 +25,7 @@
     <Compile Include="data_structures_py.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="chap2.1.md" />
+    <Content Include="chap2.md" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
