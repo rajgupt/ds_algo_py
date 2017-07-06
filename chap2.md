@@ -1,8 +1,4 @@
-# Chap2: Object Oriented Programming
-
-## Chap2.1: Goals, Principles and patterns
-
-##  SW development has mainly 3 stages:
+#  SW development has mainly 3 stages:
 
 1. Design
 2. Implementation
@@ -16,11 +12,6 @@ Class design is mainly done by 3 rule of thumbs but ore techniques can be used.
 
 Common tool for developing an initial high-level design for a project is the
 use of CRC cards. Class-Responsibility-Collaborator (CRC) cards
-
-The design process iterates through an action/actor cycle, where we first identify
-an action (that is, a responsibility), and we then determine an actor (that is, a
-component) that is best suited to perform that action. The design is complete when
-we have assigned all actions to actors.
 
 
 
